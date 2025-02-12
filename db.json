@@ -1,9 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "organizer_events": [
+    {
+      "id": "6700",
+      "title": "Soccer Tournament",
+      "description": "Soccer Tournament",
+      "date": "2025-02-12",
+      "location": "City Stadium",
+      "organizer_id": 1,
+      "imageUrl": "https://media.istockphoto.com/id/2156698017/photo/kid-playing-soccer-with-his-team.webp?a=1&b=1&s=612x612&w=0&k=20&c=NFsT1rOVqjusUJTLGinndqezgEIiyxNyswm6ImesXHA="
+    },
+    {
+      "id": "1",
+      "title": "Music Fest",
+      "description": "A live music event",
+      "date": "2025-05-10",
+      "location": "Nairobi",
+      "organizer_id": 1,
+      "imageUrl": "https://media.istockphoto.com/id/2150389368/photo/back-view-of-person-forming-heart-shape-with-hands-at-music-fest-surrounded-by-cheering-crowd.webp?a=1&b=1&s=612x612&w=0&k=20&c=eStt4JQ7kueZrjQ3FDU3COHuy_rWgbFy25WnDz_fu8U="
+    },
+    {
+      "id": "2",
+      "title": "Tech Conference",
+      "description": "A tech innovation summit",
+      "date": "2025-06-15",
+      "location": "Mombasa",
+      "organizer_id": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGVjaCUyMGNvbmZlcmVuY2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "18fb",
+      "title": "superBowl",
+      "description": "experience sports ,fun,concerts and  laughs",
+      "date": "2025-02-13",
+      "location": "Atlanta",
+      "imageUrl": "https://images.unsplash.com/photo-1549333580-4cb2c5c8e421?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "organizer_id": 1
+    }
+  ]
 }
